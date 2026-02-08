@@ -10,3 +10,4 @@ chardet
 seaborn
 scipy
 setuptools
+wordcloud
