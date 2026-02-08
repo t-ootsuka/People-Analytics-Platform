@@ -12,3 +12,7 @@ scipy
 setuptools
 wordcloud
 optuna
+shap
+xgboost
+lightgbm
+pyvis
