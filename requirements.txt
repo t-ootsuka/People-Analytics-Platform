@@ -9,3 +9,4 @@ japanize-matplotlib
 chardet
 seaborn
 scipy
+setuptools
